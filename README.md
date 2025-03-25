@@ -1,4 +1,4 @@
-# 🧪 Git Bootcamp – Hands-on Labs
+# Git Bootcamp – Hands-on Labs
 
 Welcome to this Git & GitHub mini bootcamp!  
 This repository contains two practical labs (Lab 01 & Lab 02) designed to teach you how to use Git and GitHub progressively and interactively—both individually and in collaboration.
@@ -55,7 +55,6 @@ git --version
 ---
 
 ## 🚀 Getting Started
-1
 1. Open the `.md` file in your code editor
 2. Follow the instructions and reflect on the 💬 questions
 3. For collaborative labs, team up in pairs
